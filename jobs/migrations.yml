@@ -1,0 +1,17 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: migrations
+  labels:
+    name: migrations
+spec:
+  completions: 1
+  template:
+    metadata:
+      name: migrations
+    spec:
+      containers:
+      - image: gcr.io/rapid-smithy-177819/ispa
+        name: migrations
+        command: ["/home/docker/bin/run_migrations.sh"]
+      restartPolicy: Never
