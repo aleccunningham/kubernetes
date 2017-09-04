@@ -12,8 +12,8 @@ services:
       - DRONE_OPEN=true
       - DRONE_SECRET=${DRONE_SECRET}
       - DRONE_GITHUB=true
-      - DRONE_GITHUB_SECRET=90a659023b4995feb970caa62cc8fb9b483707f9
-      - DRONE_GITHUB_CLIENT=b8cbd124a612f39e4c44
+      - DRONE_GITHUB_SECRET=${GITHUB_SECRET}
+      - DRONE_GITHUB_CLIENT=${GITHUB_CLIENT}
 
   drone-agent:
     image: drone/drone:0.5

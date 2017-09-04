@@ -1,0 +1,16 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: drone-ci
+  labels:
+    app: done-ci
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: drone-ci
+    spec:
+      containers:
+      - image: gcr.io/done
+        name: drone
