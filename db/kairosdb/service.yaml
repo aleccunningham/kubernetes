@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: kairosdb
+  namespace: zmon
+  labels:
+    app: kairosdb
+spec:
+  type: NodePort
+  ports:
+  - port: 8083
+    targetPort: 8083
+    nodePort: 31083
+  selector:
+    app: kairosdb
