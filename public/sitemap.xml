@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://kubernetes.lol/getting-started/</loc>
+    <lastmod>2016-03-09T00:11:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kubernetes.lol/adding-content/</loc>
+    <lastmod>2016-03-09T19:56:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kubernetes.lol/roadmap/</loc>
+    <lastmod>2016-03-09T20:08:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kubernetes.lol/license/</loc>
+    <lastmod>2016-03-09T20:10:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kubernetes.lol/minikube/</loc>
+    <lastmod>2018-02-17T19:56:51-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kubernetes.lol/using-git/</loc>
+    <lastmod>2018-02-17T19:56:11-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kubernetes.lol/</loc>
+    <lastmod>2016-03-08T21:07:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kubernetes.lol/adding-content/</loc>
+    <lastmod>2016-03-09T19:56:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kubernetes.lol/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kubernetes.lol/getting-started/</loc>
+    <lastmod>2016-03-09T00:11:02+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kubernetes.lol/</loc>
+    <lastmod>2016-03-09T00:11:02+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kubernetes.lol/license/</loc>
+    <lastmod>2016-03-09T20:10:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kubernetes.lol/minikube/</loc>
+    <lastmod>2018-02-17T19:56:51-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kubernetes.lol/roadmap/</loc>
+    <lastmod>2016-03-09T20:08:11+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kubernetes.lol/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kubernetes.lol/using-git/</loc>
+    <lastmod>2018-02-17T19:56:11-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

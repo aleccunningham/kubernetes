@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minikubes on How to be a tech team</title>
+    <link>http://kubernetes.lol/minikube/</link>
+    <description>Recent content in Minikubes on How to be a tech team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Sat, 17 Feb 2018 19:56:51 -0600</lastBuildDate>
+    
+	<atom:link href="http://kubernetes.lol/minikube/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>index</title>
+      <link>http://kubernetes.lol/minikube/</link>
+      <pubDate>Sat, 17 Feb 2018 19:56:51 -0600</pubDate>
+      
+      <guid>http://kubernetes.lol/minikube/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
